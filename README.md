@@ -1,1 +1,1 @@
-This respiratory is about animated website which I learned from youtube. Source code of the website is also mention in this respiratory.
+This respiratory is about animated website project using html, css, JavaScript which I learned from youtube. Source code of the website is also mention in this respiratory.
